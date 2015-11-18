@@ -1,0 +1,3 @@
+Worked on Apache Solr to build a news search system that supports contextual advertisements served alongside
+the news results. Implemented features like Faceting, Highlighting, More Like This, Auto-suggestion, Spelling Correction,
+Edismax parser.
